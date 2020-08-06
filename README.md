@@ -1,0 +1,1 @@
+A project to predict possible words based on a given word/prefix using trie data structure.
